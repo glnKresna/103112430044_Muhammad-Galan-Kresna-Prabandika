@@ -290,13 +290,10 @@ int main() {
 ##### Output 1
 ![Screenshot Output Unguided 1_1](https://github.com/glnKresna/103112430044_Muhammad-Galan-Kresna-Prabandika/blob/main/Pertemuan1_Modul1/Output/output_unguided1_modul1(1).jpg)
 
-contoh :
-![Screenshot Output Unguided 1_1](https://github.com/DhimazHafizh/2311102151_Muhammad-Dhimas-Hafizh-Fathurrahman/blob/main/Pertemuan1_Modul1/Output-Unguided1-1.png)
-
 ##### Output 2
-![Screenshot Output Unguided 1_2](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+![Screenshot Output Unguided 1_2](https://github.com/glnKresna/103112430044_Muhammad-Galan-Kresna-Prabandika/blob/main/Pertemuan1_Modul1/Output/output_unguided1_modul1(2).jpg)
 
-penjelasan unguided 1 
+Program ini adalah kalkulator sederhana berbasis C++ yang meminta pengguna memasukkan dua angka. Program kemudian melakukan operasi aritmatika dasar yang terdiri dari penjumlahan, pengurangan, perkalian, dan pembagian, serta menampilkan hasilnya di layar. Program menggunakan tipe data `float` agar dapat menangani angka desimal.
 
 ### 2. Buatlah sebuah program yang menerima masukan angka dan mengeluarkan output nilai angka tersebut dalam bentuk tulisan. Angka yang akan di-input oleh user adalah bilangan bulat positif mulai dari 0 s.d. 100.
 
