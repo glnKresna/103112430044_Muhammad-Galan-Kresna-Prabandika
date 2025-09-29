@@ -4,7 +4,7 @@
 ## Dasar Teori
 C++ merupakan bahasa Pemrograman Berorientasi Objek (Object-Oriented Programming) yang dikembangkan sebagai bagian dari keluarga bahasa C untuk memberikan developer tingkat kontrol yang lebih tinggi atas memori dan sumber daya sistem. Bahasa pemrograman ini menawarkan berbagai macam struktur data dan paradigma pemrograman yang bisa diimplementasikan untuk memenuhi kebutuhan spesifik suatu aplikasi atau memecahkan masalah dengan sistem tertentu[1]. Oleh karena itu, C++ menjadi bahasa yang populer digunakan untuk mengembangkan berbagai macam sistem seperti sistem operasi, sistem tertanam, video game, dan software lainnya[2].
 
-Dalam praktikum ini, praktikan mempelajari penggunaan bahasa C++ untuk menjalankan operasi aritmatika sederhana[3], implementasi conditional statement atau percabangan[4], dan penerapan teknik perulangan atau looping[5]. Hasil praktikum ditulis menggunakan bahasa C++ di dalam Visual Studio Code sebagai IDE.
+Dalam praktikum ini, praktikan mempelajari penggunaan bahasa C++ untuk menjalankan operasi aritmatika sederhana[3], implementasi conditional statement atau percabangan[4], dan penerapan teknik perulangan atau looping. Hasil praktikum ditulis menggunakan bahasa C++ di dalam Visual Studio Code sebagai IDE.
 
 ### A. Dasar Pemrograman C++<br/>
 
@@ -342,15 +342,12 @@ int main() {
 ### Output Unguided 2 :
 
 ##### Output 1
-![Screenshot Output Unguided 2_1](D:\Code (VS Code)\Kuliah\Semester 3\Laprak W1\103112430044_Muhammad-Galan-Kresna-Prabandika\Pertemuan1_Modul1\Output\output_unguided1_modul1(1).jpg)
-
-contoh :
-![Screenshot Output Unguided 2_1](https://github.com/DhimazHafizh/2311102151_Muhammad-Dhimas-Hafizh-Fathurrahman/blob/main/Pertemuan1_Modul1/Output-Unguided2-1.png)
+![Screenshot Output Unguided 2_1](https://github.com/glnKresna/103112430044_Muhammad-Galan-Kresna-Prabandika/blob/main/Pertemuan1_Modul1/Output/output_unguided2_modul1(1).jpg)
 
 ##### Output 2
-![Screenshot Output Unguided 2_2](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+![Screenshot Output Unguided 2_2](https://github.com/glnKresna/103112430044_Muhammad-Galan-Kresna-Prabandika/blob/main/Pertemuan1_Modul1/Output/output_unguided2_modul1(2).jpg)
 
-penjelasan unguided 2
+Program ini mengubah angka dari 0 hingga 100 menjadi bentuk teks. Pengguna memasukkan angka melalui `cin`, kemudian fungsi `keHuruf()` mengubah angka tersebut menjadi kata-kata dengan tipe data `string`. Program menggunakan `switch` untuk kasus khusus (0, 10, 11, 100) dan logika `if` untuk angka lain, termasuk belasan dan puluhan. Jika angka melebihi 100, program akan menampilkan pesan "input melebihi batas".
 
 ### 3. Buatlah program yang dapat memberikan input dan output sebagai berikut.
 
@@ -389,20 +386,25 @@ int main() {
 ### Output Unguided 3 :
 
 ##### Output 1
-![Screenshot Output Unguided 3_1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
-
-contoh :
-![Screenshot Output Unguided 3_1](https://github.com/DhimazHafizh/2311102151_Muhammad-Dhimas-Hafizh-Fathurrahman/blob/main/Pertemuan1_Modul1/Output-Unguided3-1.png)
+![Screenshot Output Unguided 3_1](https://github.com/glnKresna/103112430044_Muhammad-Galan-Kresna-Prabandika/blob/main/Pertemuan1_Modul1/Output/output_unguided3_modul1(1).jpg)
 
 ##### Output 2
-![Screenshot Output Unguided 3_2](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+![Screenshot Output Unguided 3_2](https://github.com/glnKresna/103112430044_Muhammad-Galan-Kresna-Prabandika/blob/main/Pertemuan1_Modul1/Output/output_unguided3_modul1(2).jpg)
 
-penjelasan unguided 3
+Program ini membuat pola piramida angka simetris dengan tanda `*` di tengah. Pengguna memasukkan sebuah angka `n`, yang menentukan tinggi piramida. Program menggunakan dua nested loop: Loop pertama menampilkan angka menurun di sebelah kiri `*`, Loop kedua menampilkan angka menaik di sebelah kanan `*`.
 
 ## Kesimpulan
-...
+Ketiga program tersebut memperlihatkan penggunaan dasar bahasa C++ untuk interaksi dengan pengguna, pengolahan data, dan kontrol alur program:
+- Program operasi aritmatika sederhana Menunjukkan penggunaan `cin` dan `cout` untuk input-output, tipe data `float` untuk angka desimal, serta operasi aritmatika dasar (`+`, `-`, `*`, `/`).
+- Program Konversi Angka ke Kata menunjukkan penerapan fungsi `switch-case` dan logika kondisional (`if`) untuk memetakan angka menjadi teks, serta penggunaan array `string` untuk menyimpan kata-kata numerik.
+- Program Pola Piramida Angka menunjukkan penggunaan nested loop dan manipulasi spasi untuk mencetak pola angka di konsol, serta kombinasi perulangan menaik dan menurun untuk membentuk struktur simetris.
+
+Secara keseluruhan, ketiga program ini menekankan konsep fundamental C++: input-output, tipe data, kontrol alur (conditional statements), fungsi, dan perulangan, yang menjadi dasar bagi pengembangan program yang lebih kompleks.
 
 ## Referensi
-[1] Triase. (2020). Diktat Edisi Revisi : STRUKTUR DATA. Medan: UNIVERSTAS ISLAM NEGERI SUMATERA UTARA MEDAN. 
-<br>[2] Indahyati, Uce., Rahmawati Yunianita. (2020). "BUKU AJAR ALGORITMA DAN PEMROGRAMAN DALAM BAHASA C++". Sidoarjo: Umsida Press. Diakses pada 10 Maret 2024 melalui https://doi.org/10.21070/2020/978-623-6833-67-4.
-<br>...
+[1] Nugroho, A. Y., Sutanto, N. H. (2024). "Exploring the Code Foundation: A Literature Review of Data Structures in C++". Yogyakarta: International Journal of Mechanical, Industrial and Control Systems Engineering.
+<br>[2] Aljas, J. M, Amores, H. A, Lincopinis, D. R. (2023). "An Overview on C++ Programming Language". Pagadian City: https://www.researchgate.net/publication/371166631.
+<br>[3] Fathonia, G., Yahfizam, Y. (2024). "Analisis Studi Literatur Penyelesaian Operator Aritmatika Serta Bilangan
+Bulat Dengan Code Sederhana Pada Bahasa Pemrograman C++". Medan: Jurnal Teknik Informatika, Sains dan Ilmu Komunikasi.
+<br>[4] Nafiah, R., et al. (2020). "Bit Manipulation: Conditional Statement using
+Bit-wise operators with C++". Yogyakarta: International Journal on Informatics for Development.
