@@ -33,7 +33,7 @@ int main() {
 - `/` → pembagian
 - `%` → modulus (sisa hasil bagi)
 
-#### 3. Operator Logika & Perbandingan
+#### 4. Operator Logika & Perbandingan
 - `&&` → dan
 - `||` → atau
 - `==` → sama dengan
