@@ -1,0 +1,11 @@
+*.o
+*.obj
+*.exe
+*.out
+
+/bin/
+/build/
+/Debug/
+/Release/
+
+*.log

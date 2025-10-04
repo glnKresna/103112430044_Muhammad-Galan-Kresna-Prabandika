@@ -375,10 +375,7 @@ return 0;
 ### Output Unguided 1 :
 
 ##### Output 1
-![Screenshot Output Unguided 1_1](https://github.com/glnKresna/103112430044_Muhammad-Galan-Kresna-Prabandika/blob/main/Pertemuan1_Modul1/Output/output_unguided1_modul1(1).jpg)
-
-##### Output 2
-![Screenshot Output Unguided 1_2](https://github.com/glnKresna/103112430044_Muhammad-Galan-Kresna-Prabandika/blob/main/Pertemuan1_Modul1/Output/output_unguided1_modul1(2).jpg)
+![Screenshot Output Unguided 1_1](https://github.com/glnKresna/103112430044_Muhammad-Galan-Kresna-Prabandika/blob/main/Pertemuan2_Modul2/Unguided/Output/No1_Lat2_Mod2.jpg)
 
 Program ini program ini menjalankan operasi penjumlahan, pengurangan, dan perkalian matriks 3x3 dengan elemen yang ditentukan. Program ini menggunakan switch-case untuk memberikan user opsi dalam memilih operasi aritmatika apa yang akan dilakukan pada matriks; opsi pertama melakukan penjumlahan matriks, opsi kedua pengurangan matriks, opsi ketiga perkalian matriks, dan opsi keempat yang menyelesaikan program.
 
@@ -429,10 +426,7 @@ int main (){
 ### Output Unguided 2 :
 
 ##### Output 1
-![Screenshot Output Unguided 2_1](https://github.com/glnKresna/103112430044_Muhammad-Galan-Kresna-Prabandika/blob/main/Pertemuan1_Modul1/Output/output_unguided2_modul1(1).jpg)
-
-##### Output 2
-![Screenshot Output Unguided 2_2](https://github.com/glnKresna/103112430044_Muhammad-Galan-Kresna-Prabandika/blob/main/Pertemuan1_Modul1/Output/output_unguided2_modul1(2).jpg)
+![Screenshot Output Unguided 2_1](https://github.com/glnKresna/103112430044_Muhammad-Galan-Kresna-Prabandika/blob/main/Pertemuan2_Modul2/Unguided/Output/No1_Lat2_Mod2.jpg)
 
 Program ini dibuat untuk menghitung luas dan keliling sebuah persegi panjang dengan nilai panjang dan lebar tertentu. Panjang awalnya bernilai 10 dengan lebar bernilai 5, kemudian program menampilkan nilai awal tersebut sekaligus hasil perhitungan luas dan kelilingnya. Setelah itu, program memanggil fungsi `ubahPanjangLebar` yang menggunakan konsep Passing by Reference untuk mengubah nilai panjang menjadi 12 dan lebar menjadi 6.
 
