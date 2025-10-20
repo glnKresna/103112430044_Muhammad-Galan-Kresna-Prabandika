@@ -204,40 +204,22 @@ procedure tampil_pelajaran(input pel: pelajaran)
 
 - pelajaran.h
 ```C++
-#include <iostream>
+#ifndef PELAJARAN_H
+#define PELAJARAN_H
+
+#include <string>
 using namespace std;
 
-void ubahPanjangLebar(int& Panjang, int& Lebar) {
-    Panjang = 12;
-    Lebar = 6;
-}
-int main (){
-    int panjang = 10, lebar = 5, luas = 0;
-    int keliling;
-    cout << "--- Nilai awal---" << endl;
-    cout << "Panjang: " << panjang << endl;
-    cout << "Lebar: " << lebar << endl;
+struct pelajaran {
+    string namaMapel;
+    string kodeMapel;
+};
 
-    luas = panjang * lebar;
-    keliling = 2 * (panjang + lebar);
+pelajaran create_pelajaran(string namapel, string kodepel);
 
-    cout << "---Hasil Perhitungan---" << endl;
-    cout << "Luas: " << luas << endl;
-    cout << "Keliling: " << keliling << endl;
+void tampilkan_pelajaran(pelajaran pel);
 
-    ubahPanjangLebar(panjang, lebar);
-
-    luas = panjang * lebar;
-    keliling = 2 * (panjang + lebar);
-
-    cout << "---Nilai Setelah Diubah---" << endl;
-    cout << "Panjang: " << panjang << endl;
-    cout << "lebar: " << lebar << endl;
-    cout << "Luas: " << luas << endl;
-    cout << "Keliling: " << keliling << endl;
-
-    return 0;
-}
+#endif
 ```
 
 - pelajaran.cpp
