@@ -626,7 +626,7 @@ int main() {
 ### Output Unguided 2 :
 
 ##### Output
-![Screenshot Output Unguided 2](https://github.com/glnKresna/103112430044_Muhammad-Galan-Kresna-Prabandika/blob/main/Pertemuan3_Modul3/Unguided/Output/output_no2.jpg)
+![Screenshot Output Unguided 2](https://github.com/glnKresna/103112430044_Muhammad-Galan-Kresna-Prabandika/blob/main/Pertemuan4_Modul4/Unguided/Output/output_no2.jpg)
 
 Pada program ini, struktur `ElmList` menyimpan data bertipe `int` dan pointer ke elemen berikutnya, sedangkan `List` menampung alamat elemen pertama. Di `main`, program membuat list baru, menambahkan data (9, 12, 8, 0, 2) menggunakan `insertFirst`, lalu melakukan penghapusan node, menampilkan jumlah node, dan menghapus seluruh elemen. Secara keseluruhan, program ini memperlihatkan proses pembuatan, penambahan, penghapusan, dan penampilan data dalam Singly Linked List menggunakan konsep modularisasi di C++.
 
