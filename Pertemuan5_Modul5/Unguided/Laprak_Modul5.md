@@ -237,7 +237,7 @@ int main() {
 ### Output Unguided 1 :
 
 ##### Output
-![Screenshot Output Unguided 1](https://github.com/glnKresna/103112430044_Muhammad-Galan-Kresna-Prabandika/blob/main/Pertemuan4_Modul4/Unguided/Output/output_no1.jpg)
+![Screenshot Output Unguided 1](https://github.com/glnKresna/103112430044_Muhammad-Galan-Kresna-Prabandika/blob/main/Pertemuan5_Modul5/Unguided/Output/output_no1.jpg)
 
 Program ini menerapkan algoritma binary search pada struktur linked list untuk menemukan elemen tertentu, sambil menampilkan tahapan pencarian, posisi elemen tengah di setiap iterasi, serta hasil akhir yang mencakup alamat dan data node yang berhasil ditemukan.
 
@@ -330,7 +330,7 @@ int main() {
 ### Output Unguided 2 :
 
 ##### Output
-![Screenshot Output Unguided 2](https://github.com/glnKresna/103112430044_Muhammad-Galan-Kresna-Prabandika/blob/main/Pertemuan4_Modul4/Unguided/Output/output_no2.jpg)
+![Screenshot Output Unguided 2](https://github.com/glnKresna/103112430044_Muhammad-Galan-Kresna-Prabandika/blob/main/Pertemuan5_Modul5/Unguided/Output/output_no2.jpg)
 
 Program ini menerapkan algoritma linear search pada struktur linked list untuk mencari elemen tertentu, dengan menampilkan tahapan pemeriksaan tiap node serta hasil akhir yang mencakup alamat dan data node yang berhasil ditemukan.
 
