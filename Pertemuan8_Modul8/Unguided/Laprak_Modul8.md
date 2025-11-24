@@ -265,7 +265,7 @@ int main() {
 }
 ```
 
-Program ini mengimplementasikan queue.
+Program ini mengimplementasikan queue untuk pencarian data.
 
 ## Guided 2
 
@@ -380,7 +380,7 @@ int main() {
     return 0;
 }
 ```
-Program ini mengimplementasikan queue .
+Program ini mengimplementasikan queue utuk membuat antrian.
 
 ## Unguided
 
