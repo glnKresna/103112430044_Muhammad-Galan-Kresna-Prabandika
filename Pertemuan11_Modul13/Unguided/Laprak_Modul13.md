@@ -1,5 +1,5 @@
 # <h1 align="center">Laporan Praktikum Modul 13 - Multi Linked List</h1>
-<p align="center">Septian Ardiansyah Saputra - 103112430103</p>
+<p align="center">Muhammad Galan Kresna Prabandika - 103112430044</p>
 
 ## Dasar Teori
 Multi Linked List (MLL) merupakan pengembangan dari struktur data _linked list_ yang memungkinkan satu node memiliki lebih dari satu relasi _pointer_ sehingga dapat merepresentasikan hubungan data bertingkat atau relasi satu-ke-banyak (_one_-_to_-_many_) [1]. Struktur ini sangat efektif digunakan pada sistem yang memerlukan pengelompokan data secara hierarkis karena setiap node _parent_ dapat memiliki _linked list child_ yang berdiri sendiri dan dikelola secara dinamis [1]. Penerapan multi linked list juga terbukti mampu meningkatkan efisiensi dalam pengolahan data kompleks, seperti pencarian dan pengelompokan elemen, karena fleksibilitas hubungan antar node, meskipun implementasinya memerlukan pengelolaan _pointer_ yang cermat untuk menjaga konsistensi dan integritas data [2].
