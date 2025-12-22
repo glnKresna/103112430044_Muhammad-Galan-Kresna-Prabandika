@@ -404,7 +404,7 @@ int main() {
 ### Output Unguided 1 :
 
 ##### Output
-![Screenshot Output Unguided 1](https://github.com/glnKresna/103112430044_Muhammad-Galan-Kresna-Prabandika/blob/main/Pertemuan12_Modul14/Unguided/Output/output_no1.jpg)
+![Screenshot Output Unguided 1](https://github.com/glnKresna/103112430044_Muhammad-Galan-Kresna-Prabandika/blob/main/Pertemuan12_Modul14/Unguided/Output/output_no1.png)
 
 ### 2.  Buatlah prosedur untuk menampilkanhasil penelusuran DFS. prosedur PrintDFS (Graph G, adrNode N);
 
@@ -433,7 +433,7 @@ int main() {
 ### Output Unguided 2 :
 
 ##### Output
-![Screenshot Output Unguided 2](https://github.com/glnKresna/103112430044_Muhammad-Galan-Kresna-Prabandika/blob/main/Pertemuan12_Modul14/Unguided/Output/output_no2.jpg)
+![Screenshot Output Unguided 2](https://github.com/glnKresna/103112430044_Muhammad-Galan-Kresna-Prabandika/blob/main/Pertemuan12_Modul14/Unguided/Output/output_no2.png)
 
 ### 3. Print tree secara pre-order dan post-order.
 
@@ -477,7 +477,7 @@ void PrintBFS(Graph G, adrNode N) {
 ### Output Unguided 3 :
 
 ##### Output
-![Screenshot Output Unguided 3](https://github.com/glnKresna/103112430044_Muhammad-Galan-Kresna-Prabandika/blob/main/Pertemuan10_Modul10/Unguided/Output/output_no3.jpg)
+![Screenshot Output Unguided 3](https://github.com/glnKresna/103112430044_Muhammad-Galan-Kresna-Prabandika/blob/main/Pertemuan12_Modul14/Unguided/Output/output_no3.png)
 
 ## Kesimpulan
 Berdasarkan kajian teori dan praktikum, struktur data graf merupakan representasi matematis yang sangat fleksibel dan kuat untuk memodelkan berbagai permasalahan kompleks yang melibatkan hubungan antarobjek. Dengan komponen utama berupa simpul (vertex) dan sisi (edge), graf mampu merepresentasikan beragam sistem nyata seperti jaringan komputer, peta transportasi, hingga jejaring sosial. Keberadaan berbagai jenis graf—baik berarah maupun tidak berarah, berbobot maupun tidak berbobot—menjadikan graf dapat disesuaikan dengan kebutuhan permasalahan yang berbeda, sebagaimana dijelaskan dalam berbagai penelitian ilmiah.
